@@ -7,9 +7,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello world</h1>
+        <h1>Hello World</h1>
         <Weather city="Cape town" />
       </header>
+
+      <footer>Open-source code by Busisiwe Tsetseng</footer>
     </div>
   );
 }
